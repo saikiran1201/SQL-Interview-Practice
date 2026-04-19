@@ -4,8 +4,6 @@
   <b>Master SQL for Data Analyst, Business Analyst, BI & Data Engineer Interviews</b>
 </p>
 
-<br>
-
 ---
 
 # 🚀 About This Repository
