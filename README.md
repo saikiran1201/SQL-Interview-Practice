@@ -6,13 +6,6 @@
 
 <br>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/SQL-Interview%20Prep-blue">
-  <img src="https://img.shields.io/badge/Python-Data%20Analysis-yellow">
-  <img src="https://img.shields.io/badge/Pandas-Data%20Wrangling-green">
-  <img src="https://img.shields.io/badge/Level-Beginner%20to%20Advanced-orange">
-</p>
-
 ---
 
 # 🚀 About This Repository
