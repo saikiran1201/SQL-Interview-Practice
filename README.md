@@ -91,17 +91,17 @@ SQL-Interview-Practice
 
 ### 🗄️ SQL
 
-* **sql_practice.ipynb** → SQL practice problems & solutions
-* **SQL_Interview_Cheat_Sheet.pdf** → Quick SQL interview reference
+* [sql_practice.ipynb](https://github.com/saikiran1201/SQL-Interview-Practice/blob/main/sql_practice.ipynb) → SQL practice problems & solutions
+* [SQL_Interview_Cheat_Sheet.pdf](https://github.com/saikiran1201/SQL-Interview-Practice/blob/main/SQL_Interview_Cheat_Sheet.pdf) → Quick SQL interview reference
 
 ### 🐍 Python
 
-* **Python_Interview_Prep.ipynb** → Python interview questions
-* **Python_DE_Advanced.ipynb** → Advanced Python for Data Engineering
+* [Python_Interview_Prep.ipynb](https://github.com/saikiran1201/SQL-Interview-Practice/blob/main/Python_Interview_Prep.ipynb) → Python interview questions
+* [Python_DE_Advanced.ipynb](https://github.com/saikiran1201/SQL-Interview-Practice/blob/main/Python_DE_Advanced.ipynb) → Advanced Python for Data Engineering
 
 ### 🐼 Pandas
 
-* **Pandas_Cheat_Sheet.ipynb** → Pandas data wrangling cheat sheet
+* [Pandas_Cheat_Sheet.ipynb](https://github.com/saikiran1201/SQL-Interview-Practice/blob/main/Pandas_Cheat_Sheet.ipynb) → Pandas data wrangling cheat sheet
 
 ---
 
