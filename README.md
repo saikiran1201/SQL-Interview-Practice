@@ -79,13 +79,29 @@ The goal is to **help you crack data interviews** by focusing on:
 ```
 SQL-Interview-Practice
 │
-├── Beginner
-├── Intermediate
-├── Advanced
-├── Case Studies
-├── Business Problems
-└── Interview Questions
+├── sql_practice.ipynb
+├── SQL_Interview_Cheat_Sheet.pdf
+├── Python_Interview_Prep.ipynb
+├── Python_DE_Advanced.ipynb
+├── Pandas_Cheat_Sheet.ipynb
+└── README.md
 ```
+
+# 📁 File Description
+
+### 🗄️ SQL
+
+* **sql_practice.ipynb** → SQL practice problems & solutions
+* **SQL_Interview_Cheat_Sheet.pdf** → Quick SQL interview reference
+
+### 🐍 Python
+
+* **Python_Interview_Prep.ipynb** → Python interview questions
+* **Python_DE_Advanced.ipynb** → Advanced Python for Data Engineering
+
+### 🐼 Pandas
+
+* **Pandas_Cheat_Sheet.ipynb** → Pandas data wrangling cheat sheet
 
 ---
 
