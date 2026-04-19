@@ -1,92 +1,168 @@
-📊 Data Professional Interview Practice
+# 📊 SQL Interview Practice
 
-A curated collection of technical resources and hands-on practice materials for aspiring:
+<p align="center">
+  <b>Master SQL for Data Analyst, Business Analyst, BI & Data Engineer Interviews</b>
+</p>
 
-Business Analysts
-Data Analysts
-BI Engineers
-Data Engineers
+<br>
 
-This repository focuses on mastering the core pillars of data interviews:
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL-Interview%20Prep-blue">
+  <img src="https://img.shields.io/badge/Python-Data%20Analysis-yellow">
+  <img src="https://img.shields.io/badge/Pandas-Data%20Wrangling-green">
+  <img src="https://img.shields.io/badge/Level-Beginner%20to%20Advanced-orange">
+</p>
 
-SQL Proficiency
-Python Programming
-Data Wrangling with Pandas
-Business Case Studies
-Real Interview Questions
-🚀 Why This Repository
+---
 
-Preparing for data interviews can feel scattered and unstructured — many learners jump between SQL, Python, and case studies without a clear roadmap. This repository provides a structured, interview-focused learning path covering the most commonly tested skills.
+# 🚀 About This Repository
 
-SQL interviews typically follow predictable patterns like joins, window functions, aggregations, and business logic problems — making structured practice extremely valuable.
+This repository is a **curated collection of SQL interview questions, solutions, and data analysis practice material** designed for:
 
-🧠 What You'll Learn
-🗄️ SQL Interview Preparation
-Topics Covered
-Basic SQL Queries
-Joins (Inner, Left, Right)
-Aggregations & Group By
-Window Functions
-CTEs
-Subqueries
-Ranking Functions
-Date Functions
-Case Statements
-Query Optimization
-Practice Includes
-Real Interview Questions
-Company-Style Problems
-Business Case Studies
-Analytical SQL Problems
-🐍 Python for Data Interviews
-Python Basics for Data Analysis
-Data Structures
-File Handling
-Automation Scripts
-Data Processing Logic
-Topics Covered
-Lists & Dictionaries
-List Comprehensions
-Lambda Functions
-Exception Handling
-JSON Processing
-Data Manipulation
-🐼 Pandas Data Wrangling
-Data Cleaning
-Data Transformation
-Feature Engineering
-Missing Value Handling
-Aggregations
-Merging & Joining
-Topics Covered
-DataFrame Operations
-Filtering & Sorting
-GroupBy
-Pivot Tables
-Apply Functions
-🎯 Interview Topics Covered
-Product Analytics
-Business Metrics
-Funnel Analysis
-Cohort Analysis
-A/B Testing Basics
-Data Cleaning Problems
-Dashboard Metrics
-📈 Recommended Learning Path
-Step 1 — SQL Fundamentals
-SELECT
-Joins
-Aggregations
-Step 2 — Advanced SQL
-Window Functions
-CTEs
-Case Studies
-Step 3 — Python Fundamentals
-Data Structures
-Problem Solving
-Step 4 — Pandas
-Data Cleaning
-Data Wrangling
-Step 5 — Case Studies
-Real Business Problems
-Interview Scenarios
+* 📊 Data Analysts
+* 📈 Business Analysts
+* 📉 BI Engineers
+* ⚙️ Data Engineers
+* 🎓 Students preparing for data roles
+
+The goal is to **help you crack data interviews** by focusing on:
+
+* SQL Practice
+* Business Case Studies
+* Real Interview Questions
+* Data Analytics Problems
+
+---
+
+# 📚 Topics Covered
+
+## 🗄️ SQL Fundamentals
+
+* SELECT Statements
+* WHERE Clause
+* GROUP BY
+* ORDER BY
+* LIMIT
+* CASE WHEN
+
+## 🔗 SQL Joins
+
+* INNER JOIN
+* LEFT JOIN
+* RIGHT JOIN
+* FULL JOIN
+* Self Join
+
+## 📊 Aggregations
+
+* COUNT
+* SUM
+* AVG
+* MIN
+* MAX
+* GROUP BY
+* HAVING
+
+## 🧠 Advanced SQL
+
+* Window Functions
+* CTEs
+* Subqueries
+* Ranking Functions
+* Lead & Lag
+* Running Totals
+
+---
+
+# 🏗️ Repository Structure
+
+```
+SQL-Interview-Practice
+│
+├── Beginner
+├── Intermediate
+├── Advanced
+├── Case Studies
+├── Business Problems
+└── Interview Questions
+```
+
+---
+
+# 🎯 Interview Questions Included
+
+* ✔ Real Interview Questions
+* ✔ Company Style Questions
+* ✔ Business Case Studies
+* ✔ Analytics Problems
+* ✔ Data Cleaning Problems
+
+---
+
+# 📈 Example Questions
+
+* Find Top 3 Customers by Revenue
+* Calculate Daily Active Users
+* Find Duplicate Records
+* Running Total Calculation
+* Retention Analysis
+* Funnel Conversion Analysis
+
+---
+
+# 🎯 Who Should Use This
+
+This repository is perfect for:
+
+* Beginners learning SQL
+* Data Analysts preparing interviews
+* Business Analysts transitioning to Data roles
+* Professionals brushing SQL skills
+
+---
+
+# ⭐ Why This Repository
+
+* Interview Focused
+* Clean SQL Solutions
+* Real‑World Problems
+* Beginner to Advanced
+* Continuously Updated
+
+---
+
+# 🤝 Contributions
+
+Contributions are welcome!
+
+Steps:
+
+1. Fork the repository
+2. Create new branch
+3. Add questions / solutions
+4. Submit Pull Request
+
+---
+
+# ⭐ Support
+
+If you find this useful, please ⭐ the repository.
+
+---
+
+# 👨‍💻 Author
+
+**Sai Kiran**
+Data Science | Business Analytics | SQL | Python
+
+<br>
+
+---
+
+# 📌 License
+
+MIT License
+
+---
+
+🚀 Happy Learning & Good Luck with Interviews
